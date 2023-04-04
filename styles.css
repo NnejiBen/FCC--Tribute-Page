@@ -7,7 +7,8 @@
 
 body {
   background-color: #FFF2CC;
-  color: #020202;
+  /* color: #020202; */
+  color: #0f0601;
 }
 
 header {
@@ -69,6 +70,10 @@ ul > li {
 #image-credit {
   text-align: center;
   font-size: 10px;
+}
+
+#image-credit > a {
+  color: #0f0601;
 }
 
 footer {
