@@ -67,6 +67,13 @@ ul > li {
   color: #883705;
 }
 
+footer {
+    background-color: #FFDCB6;
+    padding: 16px 0;
+    margin-top: 40px;
+    border: 1px solid #883705;
+}
+
 #image-credit {
   text-align: center;
   font-size: 10px;
@@ -76,13 +83,14 @@ ul > li {
   color: #0f0601;
 }
 
-footer {
-    background-color: #FFDCB6;
-    padding: 16px 0;
-    margin-top: 40px;
-    border: 1px solid #883705;
+#copyright {
+  font-size: 10px;
+  text-align: center;
 }
 
+#copyright > a {
+  color: #0f0601;
+}
 @media screen and (max-width: 480px) {
 /* html {
     font-size: 14px;
