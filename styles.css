@@ -12,6 +12,7 @@ body {
 header {
     background-color: #FFDCB6;
     padding: 16px 0 8px 0;
+    border: 1px solid #883705;
 }
 
 #title {
@@ -64,4 +65,33 @@ footer {
     background-color: #FFDCB6;
     padding: 16px 0;
     margin-top: 32px;
+    border: 1px solid #883705;
 }
+
+@media screen and (max-width: 480px) {
+/* html {
+    font-size: 14px;
+} */
+  
+header {
+  padding: 0 16px;
+}
+
+#img-div {
+  margin: 32px auto;
+}
+
+#image {
+  width: 90%;
+}
+
+figcaption {
+  padding: 0 32px;
+}
+
+#tribute-info {
+  width: 80%;
+}
+
+
+  }
