@@ -29,7 +29,7 @@ header {
 }
 
 #image {
-  width: 70%;
+  width: 90%;
   max-width: 100%;
   height: auto;
   display: block;
@@ -51,9 +51,9 @@ h3 {
     color: #883705;
 }
 
-#learn-more {
+#learn-more, #learn-more > a {
   text-align: center;
-  font-style: italic;
+  color: #883705;
 }
 
 #image-credit {
