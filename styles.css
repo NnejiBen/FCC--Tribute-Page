@@ -55,6 +55,11 @@ ul > li {
   margin-bottom: 8px;
 
 }
+
+#facts-heading {
+  margin-top: 32px;
+}
+
 #learn-more, #learn-more > a {
   text-align: center;
   color: #883705;
