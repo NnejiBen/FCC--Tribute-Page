@@ -82,7 +82,7 @@ header {
 }
 
 #image {
-  width: 90%;
+  width: 100%;
 }
 
 figcaption {
@@ -93,5 +93,8 @@ figcaption {
   width: 80%;
 }
 
-
+footer {
+  padding: 8px 0;
+  margin-top: 32px;
+}
   }
